@@ -1,0 +1,27 @@
+{
+	"uuid": "3b8829ed-75e9-4dbc-8fbd-b3f1059160f8",
+	"name": "Контекст_Проведение документа Заказ",
+	"description": "",
+	"children": [
+		"f4e9a19b-332a-4c5f-bedb-b34244bb73bc"
+	],
+	"befores": [
+		{
+			"name": "Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий",
+			"start": 1688028071603,
+			"stop": 1688028072051,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"start": null,
+	"stop": null
+}

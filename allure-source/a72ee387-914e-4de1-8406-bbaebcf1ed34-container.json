@@ -1,0 +1,27 @@
+{
+	"uuid": "dc6ffe2d-6835-4739-bf42-0c7976e4bc23",
+	"name": "Контекст_Сценарный тест на создание, заполнение и запись услуги",
+	"description": "",
+	"children": [
+		"a72ee387-914e-4de1-8406-bbaebcf1ed34"
+	],
+	"befores": [
+		{
+			"name": "Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий",
+			"start": 1688028073724,
+			"stop": 1688028074145,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"start": null,
+	"stop": null
+}

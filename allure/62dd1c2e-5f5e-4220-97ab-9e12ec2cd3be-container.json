@@ -1,0 +1,27 @@
+{
+	"uuid": "f45db2e8-9778-4980-ae6c-113a10e8cbf5",
+	"name": "Контекст_Сценарный тест на заполнение и проведение документа Поступление товаров",
+	"description": "",
+	"children": [
+		"62dd1c2e-5f5e-4220-97ab-9e12ec2cd3be"
+	],
+	"befores": [
+		{
+			"name": "Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий",
+			"start": 1688025764195,
+			"stop": 1688025769073,
+			"status": "passed",
+			"stage": "finished",
+			"statusDetails": {
+				"known": false,
+				"muted": false,
+				"flaky": false
+			},
+			"parameters": [],
+			"attachments": [],
+			"steps": []
+		}
+	],
+	"start": null,
+	"stop": null
+}
